@@ -9,8 +9,8 @@ This repository contains solutions to two programming exercises:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/Goofy-collab/File-Handling-and-Exception-Handling.git
+   cd File-Handling-and-Exception-Handling
 ````
 
 2. Run the file read/write program:
