@@ -22,7 +22,7 @@ This repository contains solutions to two programming exercises:
 3. Run the error handling program:
 
    ```bash
-   python error_handling.py
+   python error_handling_lab.py
    ```
 
 ## Requirements
